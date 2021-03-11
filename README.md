@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, Andrew Sleigh here ### 👋
+
+# Islesoft #
+
+**_software to websites ~ design to implementation_**
+
+I'm currently self-employed at Islesoft here in the UK.
 
 <!--
 **AjSleigh/AjSleigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
